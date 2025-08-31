@@ -1,8 +1,7 @@
 <h1 align="center">👩🏻‍💻 Fernanda Dias</h1>
 
 <p>
-Olá, me chamo Fernanda, tenho 16 anos e sou estudante do curso técnico em Informática integrado ao ensino médio no Instituto Federal Catarinense (IFC). <br>
-Estou iniciando minha jornada no mundo da programação, com interesse em desenvolvimento FullStack. <br>
+Olá, me chamo Fernanda, tenho 17 anos e sou estudante do curso técnico em Informática integrado ao ensino médio no Instituto Federal Catarinense (IFC). <br>
 Este espaço é onde compartilho minhas ideias, projetos e um pouco da minha trajetória no mundo da programação
 </p>
 
